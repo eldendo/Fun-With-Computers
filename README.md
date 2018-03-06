@@ -1,7 +1,7 @@
 # Fun with computers
 ## Let's build a computer
 ### by ir. Marc Dendooven
-=========================
+---
 # Introduction
 When I discovered electronics and computers in the early '80, everything was **fun**.
 Nowadays, most computer activities are **boring**:
@@ -26,5 +26,6 @@ but a simulator is more flexible, much cheaper, and more fun since you can try l
 ## Numeral Systems
 ## Boolean Logic
 ## Building computers with switches
+![poorten met transistoren](./poorten.png)
 # Digital Logic
 # 
