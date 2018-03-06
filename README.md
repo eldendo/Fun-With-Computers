@@ -22,9 +22,13 @@ but a simulator is more flexible, much cheaper, and more fun since you can try l
 
 # Theoretical concepts
 ## Computers
+[Computers](https://en.wikipedia.org/wiki/Computer)
 ## Structured Computer Architecture
+[Structured Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 ## Numeral Systems
+[Numeral Systems](https://en.wikipedia.org/wiki/Numeral_system)
 ## Boolean Logic
+[Boolean Logic](https://en.wikipedia.org/wiki/Boolean_algebra)
 ## Building computers with switches
 ![poorten met transistoren](./poorten.png)
 # Digital Logic
