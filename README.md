@@ -8,6 +8,8 @@ Like a Jedi has to build his own light-sword, a computer scientist needs to buil
 but a simulator is more flexible, much cheaper, and more fun since you can try lot's of variations. I will use [**Carl Burch's LOGISIM 2.7.1**](http://www.cburch.com/logisim/index.html). Of course you can use an other simulator if you want.
 
 # Theoretical concepts
+Let's start with some theoretical concepts:  
+I will write more text on the way. In the mean time I guide yoy to the relevant page on wikipedia.
 ## Computers
 [Computers](https://en.wikipedia.org/wiki/Computer)
 ## Structured Computer Architecture
