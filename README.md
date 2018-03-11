@@ -1,4 +1,5 @@
 # Let's build a computer
+### Building a computer from scratch, using simulation and emulation
 ## by ir. Marc Dendooven
 ---
 # Introduction
@@ -9,7 +10,7 @@ but a simulator is more flexible, much cheaper, and more fun since you can try l
 
 # Theoretical concepts
 Let's start with some theoretical concepts:  
-I will write more text on the way. In the mean time I guide yoy to the relevant page on wikipedia.
+I will write more text on the way. In the mean time I guide you to the relevant page on wikipedia.
 ## Computers
 [Computers](https://en.wikipedia.org/wiki/Computer)
 ## Structured Computer Architecture
