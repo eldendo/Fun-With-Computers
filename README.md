@@ -2,9 +2,10 @@
 ## by ir. Marc Dendooven
 ---
 # Introduction
+Let's be clear: This is **not** a manual to build a PC from parts. As a former instructor in Computer Science and Structured Computer Organisation I always wanted to create a large (guided) practicum where students would build there own computer, but I never found the time. Now retired I write this text as a part of a series called **Fun with computers**.  
 
 Like a Jedi has to build his own light-sword, a computer scientist needs to build his own computer system. This doesn't need to be in real hardware, this can perfectly be done in a simulator. Of course nobody prevents you to build a real system,
-but a simulator is more flexible, much cheaper, and more fun since you can try lot's of variations.
+but a simulator is more flexible, much cheaper, and more fun since you can try lot's of variations. I will use [**Carl Burch's LOGISIM 2.7.1**](http://www.cburch.com/logisim/index.html). Of course you can use an other simulator if you want.
 
 # Theoretical concepts
 ## Computers
